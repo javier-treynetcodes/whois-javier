@@ -1,7 +1,7 @@
 <div align="center">
 
 # Javier García
-### Lead Developer · TreyNet Codes
+### Software Developer | Games Lead Programmer | Therefore Integration Specialist 
 
 **Build software products under TreyNet Codes — apps, games, and web platforms, from architecture to deployment.**
 
@@ -28,7 +28,7 @@ Game design and full development with Unity and C#. From mechanics to monetizati
 
 | Project | Domain | Status | Stack |
 |---|---|---|---|
-| [**treynetcodes**](https://treynetcodes.vercel.app/) | TreyNet Codes brand hub | 🟢 Live | React · TypeScript · Vite |
+| [**treynetcodes**](https://treynetcodes.vercel.app/) | TreyNet Codes Studios brand hub | 🟢 Live | React · TypeScript · Vite |
 | [**PokéMétrix**](https://treynetcodes.vercel.app/pokemetrix) | Full Pokédex web app — 1302 Pokémon, regional filters, type matchups | 🟢 Live | React · TypeScript · PokéAPI |
 | **Early Childhood Education App** | School management platform for early education centers | 🔨 In Development | React · Node.js · Kotlin · Firebase |
 | **TCG Mobile Game** | Trading card game for mobile | 🔨 In Development | Unity · C# · Node.js · Firebase |
