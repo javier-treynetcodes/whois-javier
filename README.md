@@ -38,8 +38,8 @@ I design and implement solutions on Therefore™: document management, workflow 
  
 | Project | Domain | Status |
 |---|---|---|
-| [**TreyNet Codes**](https://treynetcodes.vercel.app/) | Studio brand hub | 🟢 Live |
-| [**PokéMétrix**](https://treynetcodes.vercel.app/pokemetrix) | Full Pokédex web app — 1302 Pokémon, regional filters, type matchups | 🟢 Live |
+| [**TreyNet Codes Studios**](https://treynetcodes.vercel.app/) | Studio brand hub | 🟢 Live |
+| [**PokeMétrix**](https://javier-treynetcodes.github.io/pokemetrix/) | Full Pokédex web app — 1302 Pokémon, regional filters, type matchups | 🟢 Live |
 | **TCG Mobile Game** | Trading card game | 🔨 In Development |
 | **Early Childhood Education App** | School management platform for early education centers | 🔨 In Development |
  
