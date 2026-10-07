@@ -3,7 +3,7 @@
 # Javier García
 ### Software Developer | Games Lead Programmer | Therefore Integration Specialist 
 
-**Build software products under TreyNet Codes — apps, games, and web platforms, from architecture to deployment.**
+**Founder of TreyNet Codes — building games, apps and software products, from architecture to deployment.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-gs)
 
